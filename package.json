@@ -10,7 +10,8 @@
     "test:batch-2": "cypress run --spec 'cypress/e2e/batch-2'",
     "test:batch-3": "cypress run --spec 'cypress/e2e/batch-3'",
     "test:batch-4": "cypress run --spec 'cypress/e2e/batch-4'",
-    "test:batch-5": "cypress run --spec 'cypress/e2e/batch-5'"
+    "test:batch-5": "cypress run --spec 'cypress/e2e/batch-5'",
+    "test:batch-6": "cypress run --spec 'cypress/e2e/batch-6'"
   },
   "keywords": [],
   "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
